@@ -12,16 +12,4 @@
         "Allowoffline": false
     },
     
-    {
-        "device_id": "daaa1c70f3d5b909",
-        "key": "gemblong",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }, 
 ]
