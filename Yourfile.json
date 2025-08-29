@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "device123",
+        "device_id": "device",
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
@@ -9,7 +9,7 @@
         "device_id": "c922dc630c50fcd4",
         "key": "biniw",
         "expirydate": "30-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 
     
